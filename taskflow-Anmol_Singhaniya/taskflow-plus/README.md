@@ -225,3 +225,7 @@ postman/taskflow.postman_collection.json
 - Add request logging middleware with latency and status fields
 - Add refresh tokens and token revocation
 - Would add API integration tests for auth, project, and task flows.
+
+
+<img width="1918" height="1006" alt="image" src="https://github.com/user-attachments/assets/27516127-2b24-49be-9e7e-af39d0a2f665" />
+
