@@ -226,6 +226,14 @@ postman/taskflow.postman_collection.json
 - Add refresh tokens and token revocation
 - Would add API integration tests for auth, project, and task flows.
 
+<img width="1352" height="949" alt="image" src="https://github.com/user-attachments/assets/5e2bec89-ea5f-4016-a63f-f0a577d284aa" />
+
+
+<img width="1919" height="703" alt="image" src="https://github.com/user-attachments/assets/f0afc19a-15cb-4a67-9541-1a47fde7b2c9" />
+
+<img width="1919" height="992" alt="image" src="https://github.com/user-attachments/assets/57141009-28e1-48d8-9644-e820c3f905d9" />
+
+<img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/63f242c5-11f4-418c-9e02-4a3e5f0a17ef" />
 
 <img width="1918" height="1006" alt="image" src="https://github.com/user-attachments/assets/27516127-2b24-49be-9e7e-af39d0a2f665" />
 
